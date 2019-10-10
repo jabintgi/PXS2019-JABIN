@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Attendance</string>
+    <string name="select_employee">Select Employee</string>
+    <string name="jan">01\nJAN</string>
+    <string name="feb">02\nFEB</string>
+    <string name="mar">03\nMAR</string>
+    <string name="apr">04\nAPR</string>
+    <string name="may">05\nMAY</string>
+    <string name="jun">06\nJUN</string>
+    <string name="jul">07\nJUL</string>
+    <string name="aug">08\nAUG</string>
+    <string name="sep">09\nSEP</string>
+    <string name="oct">10\nOCT</string>
+    <string name="nov">11\nNOV</string>
+    <string name="dec">12\nDEC</string>
+    <string name="month">MONTH</string>
+    <string name="year">YEAR :</string>
+    <string name="select_year">Select Year</string>
+    <string name="show_report">Show Report</string>
+    <string name="_01">01</string>
+    <string name="_00">00</string>
+    <string name="total_hours">Total Hours</string>
+    <string name="days_present">Days Present</string>
+    <string name="days_absent">Days Absent</string>
+    <string name="name">Name</string>
+    <string name="oct_2019">OCT 2019</string>
+    <string name="no_record_found">No record found!</string>
+    <string name="employee_attendance">Employee\nAttendance App</string>
+</resources>
